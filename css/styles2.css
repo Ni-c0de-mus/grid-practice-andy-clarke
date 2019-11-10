@@ -37,13 +37,15 @@
  --smokey-black: #0A100D;
  --deep-koamaru: #2B4162;
  --tumbleweed: #D8A47F;
- --japanese-indigo: #233D4D; /* rgba(35, 61, 77, 1) */
+ --japanese-indigo: #233D4D;
+ /* rgba(35, 61, 77, 1) */
  --tangelo: #FFAC81;
  --alabaster: #EAF2E3;
  --copper-penny: #B2675E;
  --dark-gunmetal: #202030;
  --dark-jungle: #14281D;
- --mid-red-purple: #161032; /* rgba(22, 16, 50, 1) */
+ --mid-red-purple: #161032;
+ /* rgba(22, 16, 50, 1) */
  --leather-green: #283618;
  --tart-orange: #FE4A49;
  --jet: #34344A;
@@ -63,8 +65,10 @@
  --feldgrau: #4C5B5C;
  --bdazzled-blue: #26547C;
  --onyx: #31393C;
- --rich-black: #07090F; /* rgba(7, 9, 15, 1) */
- --reg-black: #0B0500; /* rgba(11, 5, 0, 1) */
+ --rich-black: #07090F;
+ /* rgba(7, 9, 15, 1) */
+ --reg-black: #0B0500;
+ /* rgba(11, 5, 0, 1) */
  --black: #000;
 
  /* Fonts */
@@ -250,4 +254,3 @@ nav {
 .btn:hover {
  background-color: var(--onyx);
 }
-
